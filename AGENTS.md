@@ -36,9 +36,9 @@ Out of scope: oral history (community to lead), advocacy, representing the LGBTI
 
 | Agent | Role | Active phase |
 |---|---|---|
-| Good Buddy 🦉 | Orchestration, site code, planning, memory | All phases |
+| Good Buddy 🦉 | Orchestration, planning, memory | All phases |
+| Web Ninja 🥷 | Site code, images, Zotero source records, attribution | As needed |
 | Spider 🕷️ | AI extraction + case entry pipeline | **Phase 5+ only** |
-| Web Ninja 🥷 | Images, Zotero source records, attribution | As needed |
 
 **Before starting any work:** read this file and check `_plan.md` in the vault to confirm the
 current phase and what's in scope. If you're Spider, stop here if the current phase is not 5+.
